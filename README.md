@@ -1,4 +1,4 @@
-# Reddit-Video-Downloader-Bot
+# Reddit Video Downloader Bot (Py)
 A basic discord bot made in python that downloads videos from the reddit website.
 
 # How to use:
